@@ -7,6 +7,8 @@ Using the estimators described in Algorithm 1 of https://arxiv.org/pdf/2008.0370
 
 Memorization values are plotted as histograms for each model type.
 
+NOTE: I only used **100 images** for the sake of computation time.
+
 ## MLP model memorization values histogram (Original Dataset)
 
 ![MLP_histogram](./histograms/MLP_model_histogram.png)
