@@ -70,7 +70,7 @@ test_data_size = len(data['x_test'])
 
 """## Initialize the hyperparameters"""
 
-t = 100
+t = 100 # This should be the number of training images but using just 100 images for the sake of time.
 m = int( 0.7 * train_data_size)
 
 """## Sample t random subsets of [n] of size m: I_1, I_2, I_3..."""
